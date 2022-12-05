@@ -1,5 +1,5 @@
 {
-  "name": "animais-eslint",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -14,9 +14,6 @@
     "@babel/plugin-transform-runtime": "^7.14.3",
     "@babel/preset-env": "^7.14.4",
     "babel-loader": "^8.2.2",
-    "eslint": "^5.5.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0",
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.2"
   }
