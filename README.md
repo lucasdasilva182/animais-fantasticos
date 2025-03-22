@@ -16,7 +16,7 @@ Projeto final do curso de JavaScript ES6 Completo. Foram abordados neste projeto
   
 <p  align="center">
 
-<img  alt="Animais Fantásticos"  src="[https://equivalent-apricot-peafowl.myfilebase.com/ipfs/QmYFaCUTfiWHek3uwJFMysXmw2CgkJJTYzrHeZW5fmW2YK](https://equivalent-apricot-peafowl.myfilebase.com/ipfs/QmZ74Q9q91Boj5tUiDe1yMvn9Qyn4WKUV3NCpb4JEavcsR)"  width="600px">
+<img  alt="Animais Fantásticos"  src="https://equivalent-apricot-peafowl.myfilebase.com/ipfs/QmZ74Q9q91Boj5tUiDe1yMvn9Qyn4WKUV3NCpb4JEavcsR"  width="600px">
 
 </p>
 
